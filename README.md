@@ -2,6 +2,11 @@
 
 Generate beautiful pdfs from github markdown files using pandoc.
 
+## Usage
+```sh
+./pandoc-script.sh [file_name].md [file_name].pdf
+```
+
 ## Dependencies
 
 * MacOS
